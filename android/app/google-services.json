@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075314960466",
+    "project_id": "flutter-uber-go",
+    "storage_bucket": "flutter-uber-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075314960466:android:c630f114d43bcd3899178b",
+        "android_client_info": {
+          "package_name": "com.gosoft.flutterridergo.uberridergo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075314960466-h9lj3qcobrtfijq061q6qmd3sp77ice0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28yoZrXOMBbqHHi_mcyEwEGcHOu0pyW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075314960466-h9lj3qcobrtfijq061q6qmd3sp77ice0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
